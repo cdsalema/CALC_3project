@@ -1,4 +1,6 @@
 
+// estou denixando o código original do meu projeto para que possa no futuro analisa-lo e ver como anda meu avanço na forma de pensar e codar.
+
 function insert(num) {
     const numero = document.getElementById('resultado').innerHTML;
     document.getElementById('resultado').innerHTML = numero + num;
