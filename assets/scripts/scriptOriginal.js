@@ -1,4 +1,4 @@
-/**
+
 function insert(num) {
     const numero = document.getElementById('resultado').innerHTML;
     document.getElementById('resultado').innerHTML = numero + num;
@@ -20,4 +20,4 @@ function insert(num) {
     } else {
       document.getElementById('resultado').innerHTML = 'null';
     }
-  }**/
+  }
